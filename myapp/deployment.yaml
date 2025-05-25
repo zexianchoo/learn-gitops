@@ -19,6 +19,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: theseanchoo/nginx:v0.1.0
+          image: theseanchoo/nginx:v0.1.1
           ports:
             - containerPort: 80
